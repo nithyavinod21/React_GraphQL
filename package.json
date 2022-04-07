@@ -1,0 +1,30 @@
+{
+  "name": "react-node-server",
+  "version": "1.0.0",
+  "description": "ddds",
+  "main": "index.js",
+  "scripts": {
+    "test": "sdfs",
+    "start":"node index.js",
+    "start:nodemon":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dsfsd"
+  },
+  "keywords": [
+    "dsf"
+  ],
+  "author": "nithya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "express-graphql": "^0.12.0",
+    "graphiql": "^1.8.3",
+    "graphql": "^16.3.0",
+    "json-server": "^0.17.0",
+    "loadash": "^1.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
